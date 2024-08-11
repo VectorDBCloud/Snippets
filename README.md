@@ -7,15 +7,15 @@ Welcome to the Vector Database Cloud Snippets repository! This repository is a c
 
 ## Table of Contents
 
-- [About](#about)
-- [Prerequisites](#prerequisites)
-- [Snippets](#snippets)
-  - [Example Categories](#example-categories)
-- [Usage](#usage)
-- [Contribution and Feedback](#contribution-and-feedback)
-- [Code of Conduct](#code-of-conduct)
-- [License](#license)
-- [Disclaimer](#disclaimer)
+1. [About](#about)
+2. [Prerequisites](#prerequisites)
+3. [Snippets](#snippets)
+    1. [Example Categories](#example-categories)
+4. [Usage](#usage)
+5. [Contribution and Feedback](#contribution-and-feedback)
+6. [Code of Conduct](#code-of-conduct)
+7. [License](#license)
+8. [Disclaimer](#disclaimer)
 
 
 ## About
